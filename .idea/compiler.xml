@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mini-spring-leaning" target="6" />
+      <module name="mini-spring-leaning" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
